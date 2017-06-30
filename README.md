@@ -1,5 +1,5 @@
 ##  GUI Programming
-* * *  
+
 - Linux  
   Manjaro
 - GTK+3  
